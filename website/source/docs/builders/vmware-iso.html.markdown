@@ -18,7 +18,7 @@ file as a source. It currently supports building virtual machines on hosts
 running [VMware Fusion](http://www.vmware.com/products/fusion/overview.html) for
 OS X, [VMware
 Workstation](http://www.vmware.com/products/workstation/overview.html) for Linux
-and Windows, and [VMware Player](http://www.vmware.com/products/player/) on
+and Windows, and [VMware Player](http://www.vmware.com/products/player/) with [VIX SDK](https://my.vmware.com/group/vmware/details?productId=285&downloadGroup=VSP510-VIX-510) on
 Linux. It can also build machines directly on [VMware vSphere
 Hypervisor](http://www.vmware.com/products/vsphere-hypervisor/) using SSH as
 opposed to the vSphere API.
